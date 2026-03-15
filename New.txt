@@ -1,0 +1,9 @@
+https://d3vlg4qjb80h8n.cloudfront.net/file_library/videos/migration/brightcove/6364222344112/6364222344112.m3u8 -n Arithmetic - Class-05 | Percentage.mkv -up
+https://d3vlg4qjb80h8n.cloudfront.net/file_library/videos/migration/brightcove/6364283890112/6364283890112.m3u8 -n Arithmetic - Class-06 | Percentage.mkv -up
+https://d3vlg4qjb80h8n.cloudfront.net/file_library/videos/migration/brightcove/6364396159112/6364396159112.m3u8 -n Arithmetic - Class-07 | Percentage.mkv -up
+https://d3vlg4qjb80h8n.cloudfront.net/file_library/videos/migration/brightcove/6364539340112/6364539340112.m3u8 -n Arithmetic - Class-08 | Percentage.mkv -up 
+https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364585249112/6364585249112.m3u8 -n Arithmetic - Class-09 | Percentage.mkv -up 
+https://d3vlg4qjb80h8n.cloudfront.net/file_library/videos/migration/brightcove/6364641238112/6364641238112.m3u8 -n Arithmetic - Class-10 | Percentage.mkv -up
+https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364743220112/6364743220112.m3u8 -n Arithmetic - Class-11 | Percentage.mkv -up
+https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364895832112/6364895832112.m3u8 -n Arithmetic - Class-12 | Percentage.mkv -up
+https://d14v4v80cpjht7.cloudfront.net/file_library/videos/migration/brightcove/6364943378112/6364943378112.m3u8 -n Arithmetic - Class-13 | Percentage.mkv -up
